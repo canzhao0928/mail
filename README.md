@@ -1,14 +1,10 @@
-####### WELCOME TO DOXLE #######
+# Inbox page of a mail
 
-- CLONE master branch to start your test
+The Inbox system is utilized for project management within the construction field. This is a coding test for an intern position. I transformed the page from a Figma design.
 
------> IF YOU ARE A DEV <------
+## Features
 
-- create a branch with prefix dev/"your branch name"
-- ex: origin/dev/doxle
-
------> IF YOU ARE AN INTERN <------
-
-- create a branch with prefix intern/"your branch name"
-- ex: origin/intern/doxle
-- using function "generateData" from file "data.ts" to get the data for your test
+- filter by project or due day
+- cancle filter by delete tags
+- hover files to modify it
+- delete files
